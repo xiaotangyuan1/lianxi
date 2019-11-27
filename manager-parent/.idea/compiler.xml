@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="manager-commons" />
+        <module name="manager-manager-dao" />
+        <module name="manager-manager-interface" />
+        <module name="manager-manager-pojo" />
+        <module name="manager-manager-service" />
+        <module name="manager-manager-web" />
+        <module name="manager-sso-interface" />
+        <module name="manager-sso-serveice" />
+        <module name="manager-sso-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="manager-commons" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
