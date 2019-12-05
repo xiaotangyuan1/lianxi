@@ -6,6 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 import javax.servlet.http.HttpServletRequest;
+import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
 
@@ -33,5 +34,24 @@ public Map<String,Object> login(HttpServletRequest request){
     }
     return ManagerResult.success(result.get(0));
     }
-
+    @RequestMapping(value = "/register",method = RequestMethod.POST)
+    public @ResponseBody Map<String,Object> addUser(@RequestBody Userinfo userinfo){
+    String result = "添加失败";
+    int resultCode = userService.register(userinfo);
+      if(resultCode>0){
+          result = "添加成功";
+          return ManagerResult.success(result);
+      }
+        return ManagerResult.fail(result,500);
+}
+@RequestMapping(value = "/queryAllUser",method =RequestMethod.POST)
+@ResponseBody
+public Map<String,Object> queryAllUser(HttpServletRequest request){
+    List<Userinfo> allUser = userService.queryAllUser();
+    if(allUser.size()<=0){
+    }else{
+        System.out.println("allUser的数量"+allUser.size());
+    }
+    return ManagerResult.success(allUser);
+}
 }

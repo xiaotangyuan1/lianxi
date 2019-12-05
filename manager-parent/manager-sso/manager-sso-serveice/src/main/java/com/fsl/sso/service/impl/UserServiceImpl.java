@@ -21,13 +21,14 @@ public class UserServiceImpl implements UserService {
     }
 
     @Override
-    public String register(Userinfo user) {
-        String result = "注册成功！";
+    public int register(Userinfo user) {
+        int result = 0;
         if(StringUtils.isBlank(user.getUsername())){
-            result = "用户名为空！";
-        }
-        user.setRegistertime(new Date());
 
+        }else{
+            user.setRegistertime(new Date());
+            result = userinfoMapper.insert(user);
+        }
         return result;
     }
 
@@ -39,6 +40,13 @@ public class UserServiceImpl implements UserService {
         criteria.andUsernameEqualTo(username);
         criteria.andPwdEqualTo(password);
         System.out.println("userinfoMapper的值:"+userinfoMapper.toString());
+        List<Userinfo> result = userinfoMapper.selectByExample(example);
+        return result;
+    }
+
+    @Override
+    public List<Userinfo> queryAllUser() {
+        UserinfoExample example = new UserinfoExample();
         List<Userinfo> result = userinfoMapper.selectByExample(example);
         return result;
     }

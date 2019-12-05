@@ -1,7 +1,230 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c825f463-3922-4a05-8710-2183b28494a5" name="Default Changelist" comment="" />
+    <list default="true" id="c825f463-3922-4a05-8710-2183b28494a5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/manager-commons/target/classes/com/fsl/manager/commons/ManagerResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-commons/target/manager-commons-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-commons/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-commons/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-commons/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-commons/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-commons/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-commons/target/surefire-reports/TEST-com.mamager.parent.AppTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-commons/target/surefire-reports/com.mamager.parent.AppTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-commons/target/test-classes/com/mamager/parent/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager-web/target/manager-manager-web.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager-web/target/manager-manager-web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager-web/target/manager-manager-web/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager-web/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-dao/target/classes/com/fsl/manager/dao/RightinfoMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-dao/target/classes/com/fsl/manager/dao/RightinfoMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-dao/target/classes/com/fsl/manager/dao/RoleinfoMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-dao/target/classes/com/fsl/manager/dao/RoleinfoMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-dao/target/classes/com/fsl/manager/dao/RolerightMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-dao/target/classes/com/fsl/manager/dao/RolerightMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-dao/target/classes/com/fsl/manager/dao/UserinfoMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-dao/target/classes/com/fsl/manager/dao/UserinfoMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-dao/target/classes/com/fsl/manager/dao/UserroleMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-dao/target/classes/com/fsl/manager/dao/UserroleMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-dao/target/manager-manager-dao-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-dao/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-dao/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-dao/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-dao/target/surefire-reports/TEST-com.mamager.parent.AppTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-dao/target/surefire-reports/com.mamager.parent.AppTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-dao/target/test-classes/com/mamager/parent/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-interface/target/manager-manager-interface-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-interface/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-interface/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-interface/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-interface/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-interface/target/surefire-reports/TEST-com.mamager.parent.AppTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-interface/target/surefire-reports/com.mamager.parent.AppTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-interface/target/test-classes/com/mamager/parent/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-pojo/target/classes/com/fsl/manager/pojo/Rightinfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-pojo/target/classes/com/fsl/manager/pojo/RightinfoExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-pojo/target/classes/com/fsl/manager/pojo/RightinfoExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-pojo/target/classes/com/fsl/manager/pojo/RightinfoExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-pojo/target/classes/com/fsl/manager/pojo/RightinfoExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-pojo/target/classes/com/fsl/manager/pojo/Roleinfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-pojo/target/classes/com/fsl/manager/pojo/RoleinfoExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-pojo/target/classes/com/fsl/manager/pojo/RoleinfoExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-pojo/target/classes/com/fsl/manager/pojo/RoleinfoExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-pojo/target/classes/com/fsl/manager/pojo/RoleinfoExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-pojo/target/classes/com/fsl/manager/pojo/Roleright.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-pojo/target/classes/com/fsl/manager/pojo/RolerightExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-pojo/target/classes/com/fsl/manager/pojo/RolerightExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-pojo/target/classes/com/fsl/manager/pojo/RolerightExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-pojo/target/classes/com/fsl/manager/pojo/RolerightExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-pojo/target/classes/com/fsl/manager/pojo/Userinfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-pojo/target/classes/com/fsl/manager/pojo/UserinfoExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-pojo/target/classes/com/fsl/manager/pojo/UserinfoExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-pojo/target/classes/com/fsl/manager/pojo/UserinfoExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-pojo/target/classes/com/fsl/manager/pojo/UserinfoExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-pojo/target/classes/com/fsl/manager/pojo/Userrole.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-pojo/target/classes/com/fsl/manager/pojo/UserroleExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-pojo/target/classes/com/fsl/manager/pojo/UserroleExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-pojo/target/classes/com/fsl/manager/pojo/UserroleExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-pojo/target/classes/com/fsl/manager/pojo/UserroleExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-pojo/target/manager-manager-pojo-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-pojo/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-pojo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-pojo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-pojo/target/surefire-reports/TEST-com.mamager.parent.AppTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-pojo/target/surefire-reports/com.mamager.parent.AppTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-pojo/target/test-classes/com/mamager/parent/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-service/target/classes/mybatis/sqlMapConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-service/target/classes/properties/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-service/target/classes/spring/applicationContext-dao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-service/target/classes/spring/applicationContext-service.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-service/target/classes/spring/applicationContext-trans.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-service/target/manager-manager-service-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-service/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-service/target/surefire-reports/TEST-com.mamager.parent.AppTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-service/target/surefire-reports/com.mamager.parent.AppTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-manager/manager-manager-service/target/test-classes/com/mamager/parent/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/src/main/java/com/fsl/sso/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/manager-sso-web/src/main/java/com/fsl/sso/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/classes/com/fsl/sso/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/classes/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/classes/spring/springmvc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/manager-sso-web.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/manager-sso-web/WEB-INF/classes/com/fsl/sso/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/manager-sso-web/WEB-INF/classes/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/manager-sso-web/WEB-INF/classes/spring/springmvc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/manager-sso-web/WEB-INF/lib/aopalliance-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/manager-sso-web/WEB-INF/lib/aspectjweaver-1.8.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/manager-sso-web/WEB-INF/lib/commons-codec-1.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/manager-sso-web/WEB-INF/lib/commons-fileupload-1.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/manager-sso-web/WEB-INF/lib/commons-io-1.3.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/manager-sso-web/WEB-INF/lib/commons-logging-1.1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/manager-sso-web/WEB-INF/lib/dubbo-2.5.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/manager-sso-web/WEB-INF/lib/httpclient-4.3.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/manager-sso-web/WEB-INF/lib/httpcore-4.3.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/manager-sso-web/WEB-INF/lib/jackson-annotations-2.4.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/manager-sso-web/WEB-INF/lib/jackson-core-2.4.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/manager-sso-web/WEB-INF/lib/jackson-databind-2.4.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/manager-sso-web/WEB-INF/lib/javassist-3.15.0-GA.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/manager-sso-web/WEB-INF/lib/jline-0.9.94.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/manager-sso-web/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/manager-sso-web/WEB-INF/lib/log4j-1.2.16.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/manager-sso-web/WEB-INF/lib/manager-commons-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/manager-sso-web/WEB-INF/lib/manager-manager-pojo-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/manager-sso-web/WEB-INF/lib/manager-sso-interface-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/manager-sso-web/WEB-INF/lib/netty-3.7.0.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/manager-sso-web/WEB-INF/lib/slf4j-api-1.6.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/manager-sso-web/WEB-INF/lib/slf4j-log4j12-1.6.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/manager-sso-web/WEB-INF/lib/spring-aop-4.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/manager-sso-web/WEB-INF/lib/spring-aspects-4.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/manager-sso-web/WEB-INF/lib/spring-beans-4.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/manager-sso-web/WEB-INF/lib/spring-context-4.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/manager-sso-web/WEB-INF/lib/spring-context-support-4.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/manager-sso-web/WEB-INF/lib/spring-core-4.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/manager-sso-web/WEB-INF/lib/spring-expression-4.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/manager-sso-web/WEB-INF/lib/spring-jdbc-4.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/manager-sso-web/WEB-INF/lib/spring-jms-4.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/manager-sso-web/WEB-INF/lib/spring-messaging-4.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/manager-sso-web/WEB-INF/lib/spring-tx-4.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/manager-sso-web/WEB-INF/lib/spring-web-4.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/manager-sso-web/WEB-INF/lib/spring-webmvc-4.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/manager-sso-web/WEB-INF/lib/zkclient-0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/manager-sso-web/WEB-INF/lib/zookeeper-3.4.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/manager-sso-web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/manager-sso-web/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/tomcat/conf/logging.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/tomcat/conf/tomcat-users.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/tomcat/conf/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/tomcat/logs/access_log.2019-11-19" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso-web/target/tomcat/logs/access_log.2019-11-20" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-interface/src/main/java/com/fsl/sso/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/manager-sso/manager-sso-interface/src/main/java/com/fsl/sso/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-interface/target/classes/com/fsl/sso/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-interface/target/manager-sso-interface-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-interface/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-interface/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-interface/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-interface/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-interface/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-interface/target/surefire-reports/TEST-com.mamager.parent.AppTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-interface/target/surefire-reports/com.mamager.parent.AppTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-interface/target/test-classes/com/mamager/parent/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/src/main/java/com/fsl/sso/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/src/main/java/com/fsl/sso/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/classes/com/fsl/sso/service/impl/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/classes/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/classes/mybatis/sqlMapConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/classes/properties/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/classes/spring/applicationContext-dao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/classes/spring/applicationContext-service.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/classes/spring/applicationContext-trans.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/manager-sso-serveice-1.0-SNAPSHOT.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/manager-sso-serveice-1.0-SNAPSHOT/WEB-INF/classes/com/fsl/sso/service/impl/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/manager-sso-serveice-1.0-SNAPSHOT/WEB-INF/classes/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/manager-sso-serveice-1.0-SNAPSHOT/WEB-INF/classes/mybatis/sqlMapConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/manager-sso-serveice-1.0-SNAPSHOT/WEB-INF/classes/properties/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/manager-sso-serveice-1.0-SNAPSHOT/WEB-INF/classes/spring/applicationContext-dao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/manager-sso-serveice-1.0-SNAPSHOT/WEB-INF/classes/spring/applicationContext-service.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/manager-sso-serveice-1.0-SNAPSHOT/WEB-INF/classes/spring/applicationContext-trans.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/manager-sso-serveice-1.0-SNAPSHOT/WEB-INF/lib/activemq-all-5.11.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/manager-sso-serveice-1.0-SNAPSHOT/WEB-INF/lib/aopalliance-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/manager-sso-serveice-1.0-SNAPSHOT/WEB-INF/lib/aspectjweaver-1.8.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/manager-sso-serveice-1.0-SNAPSHOT/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/manager-sso-serveice-1.0-SNAPSHOT/WEB-INF/lib/druid-1.1.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/manager-sso-serveice-1.0-SNAPSHOT/WEB-INF/lib/dubbo-2.5.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/manager-sso-serveice-1.0-SNAPSHOT/WEB-INF/lib/freemarker-2.3.23.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/manager-sso-serveice-1.0-SNAPSHOT/WEB-INF/lib/javassist-3.15.0-GA.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/manager-sso-serveice-1.0-SNAPSHOT/WEB-INF/lib/jline-0.9.94.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/manager-sso-serveice-1.0-SNAPSHOT/WEB-INF/lib/log4j-1.2.16.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/manager-sso-serveice-1.0-SNAPSHOT/WEB-INF/lib/manager-manager-dao-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/manager-sso-serveice-1.0-SNAPSHOT/WEB-INF/lib/manager-manager-pojo-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/manager-sso-serveice-1.0-SNAPSHOT/WEB-INF/lib/manager-sso-interface-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/manager-sso-serveice-1.0-SNAPSHOT/WEB-INF/lib/mybatis-3.2.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/manager-sso-serveice-1.0-SNAPSHOT/WEB-INF/lib/mybatis-paginator-1.2.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/manager-sso-serveice-1.0-SNAPSHOT/WEB-INF/lib/mybatis-spring-1.2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/manager-sso-serveice-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.47.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/manager-sso-serveice-1.0-SNAPSHOT/WEB-INF/lib/netty-3.2.5.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/manager-sso-serveice-1.0-SNAPSHOT/WEB-INF/lib/netty-3.7.0.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/manager-sso-serveice-1.0-SNAPSHOT/WEB-INF/lib/pagehelper-3.4.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/manager-sso-serveice-1.0-SNAPSHOT/WEB-INF/lib/slf4j-api-1.7.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/manager-sso-serveice-1.0-SNAPSHOT/WEB-INF/lib/slf4j-log4j12-1.6.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/manager-sso-serveice-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-4.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/manager-sso-serveice-1.0-SNAPSHOT/WEB-INF/lib/spring-aspects-4.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/manager-sso-serveice-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-4.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/manager-sso-serveice-1.0-SNAPSHOT/WEB-INF/lib/spring-context-4.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/manager-sso-serveice-1.0-SNAPSHOT/WEB-INF/lib/spring-context-support-4.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/manager-sso-serveice-1.0-SNAPSHOT/WEB-INF/lib/spring-core-4.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/manager-sso-serveice-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-4.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/manager-sso-serveice-1.0-SNAPSHOT/WEB-INF/lib/spring-jdbc-4.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/manager-sso-serveice-1.0-SNAPSHOT/WEB-INF/lib/spring-jms-4.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/manager-sso-serveice-1.0-SNAPSHOT/WEB-INF/lib/spring-messaging-4.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/manager-sso-serveice-1.0-SNAPSHOT/WEB-INF/lib/spring-tx-4.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/manager-sso-serveice-1.0-SNAPSHOT/WEB-INF/lib/spring-web-4.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/manager-sso-serveice-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-4.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/manager-sso-serveice-1.0-SNAPSHOT/WEB-INF/lib/zkclient-0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/manager-sso-serveice-1.0-SNAPSHOT/WEB-INF/lib/zookeeper-3.4.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/manager-sso-serveice-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/manager-sso-serveice-1.0-SNAPSHOT/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/surefire-reports/TEST-com.mamager.parent.AppTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/surefire-reports/com.mamager.parent.AppTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/test-classes/com/mamager/parent/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/tomcat/conf/logging.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/tomcat/conf/tomcat-users.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/tomcat/conf/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/tomcat/logs/access_log.2019-11-19" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-sso/manager-sso-serveice/target/tomcat/logs/access_log.2019-11-20" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/manager-commons/target/" />
@@ -21,34 +244,55 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-1225157055">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="17" />
+          <entry key="project.closed" value="26" />
           <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.38" value="1" />
           <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.44" value="1" />
           <entry key="project.open.time.46" value="2" />
-          <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.47" value="2" />
           <entry key="project.open.time.48" value="1" />
           <entry key="project.open.time.49" value="1" />
           <entry key="project.open.time.51" value="1" />
           <entry key="project.open.time.52" value="2" />
+          <entry key="project.open.time.54" value="1" />
           <entry key="project.open.time.55" value="2" />
           <entry key="project.open.time.58" value="1" />
-          <entry key="project.open.time.60" value="1" />
+          <entry key="project.open.time.59" value="1" />
+          <entry key="project.open.time.60" value="2" />
           <entry key="project.open.time.61" value="1" />
           <entry key="project.open.time.62" value="1" />
           <entry key="project.open.time.63" value="1" />
-          <entry key="project.opened" value="18" />
+          <entry key="project.open.time.74" value="1" />
+          <entry key="project.opened" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="class" value="5" />
           <entry key="dummy" value="10" />
-          <entry key="java" value="1872" />
+          <entry key="java" value="2383" />
           <entry key="jsp" value="97" />
           <entry key="properties" value="58" />
           <entry key="xml" value="528" />
@@ -57,7 +301,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CLASS" value="5" />
-          <entry key="JAVA" value="1872" />
+          <entry key="JAVA" value="2383" />
           <entry key="JSP" value="97" />
           <entry key="PLAIN_TEXT" value="10" />
           <entry key="Properties" value="58" />
@@ -66,20 +310,20 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="2" />
-          <entry key="java" value="65" />
+          <entry key="class" value="3" />
+          <entry key="java" value="83" />
           <entry key="jsp" value="5" />
           <entry key="properties" value="9" />
-          <entry key="xml" value="157" />
+          <entry key="xml" value="159" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="2" />
-          <entry key="JAVA" value="65" />
+          <entry key="CLASS" value="3" />
+          <entry key="JAVA" value="83" />
           <entry key="JSP" value="5" />
           <entry key="Properties" value="9" />
-          <entry key="XML" value="157" />
+          <entry key="XML" value="159" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.core.usages.trigger">
@@ -91,14 +335,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manager-sso/manager-sso-serveice/src/main/java/com/fsl/sso/service/impl/UserServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1404">
+              <caret line="50" column="22" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/manager-sso-web/src/main/java/com/fsl/sso/controller/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="61">
+              <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -113,6 +363,14 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>select</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -140,10 +398,8 @@
         <option value="$PROJECT_DIR$/manager-sso-web/src/main/webapp/index.jsp" />
         <option value="$PROJECT_DIR$/manager-manager/manager-manager-dao/src/main/java/com/fsl/manager/dao/RolerightMapper.java" />
         <option value="$PROJECT_DIR$/manager-manager/manager-manager-dao/src/main/java/com/fsl/manager/dao/RightinfoMapper.java" />
-        <option value="$PROJECT_DIR$/manager-sso/manager-sso-interface/src/main/java/com/fsl/sso/service/UserService.java" />
         <option value="$PROJECT_DIR$/manager-sso/manager-sso-serveice/pom.xml" />
         <option value="$PROJECT_DIR$/manager-manager/manager-manager-service/pom.xml" />
-        <option value="$PROJECT_DIR$/manager-sso/manager-sso-serveice/src/main/java/com/fsl/sso/service/impl/UserServiceImpl.java" />
         <option value="$PROJECT_DIR$/manager-manager/manager-manager-dao/pom.xml" />
         <option value="$PROJECT_DIR$/manager-sso/manager-sso-serveice/src/main/Resources/properties/db.properties" />
         <option value="$PROJECT_DIR$/manager-manager/manager-manager-pojo/src/main/java/com/fsl/manager/pojo/Userinfo.java" />
@@ -155,6 +411,8 @@
         <option value="$PROJECT_DIR$/manager-sso-web/pom.xml" />
         <option value="$PROJECT_DIR$/manager-sso-web/src/main/Resources/spring/springmvc.xml" />
         <option value="$PROJECT_DIR$/manager-commons/src/main/java/com/fsl/manager/commons/ManagerResult.java" />
+        <option value="$PROJECT_DIR$/manager-sso/manager-sso-interface/src/main/java/com/fsl/sso/service/UserService.java" />
+        <option value="$PROJECT_DIR$/manager-sso/manager-sso-serveice/src/main/java/com/fsl/sso/service/impl/UserServiceImpl.java" />
         <option value="$PROJECT_DIR$/manager-sso-web/src/main/java/com/fsl/sso/controller/UserController.java" />
       </list>
     </option>
@@ -182,6 +440,15 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="manager-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="manager-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="manager-sso-web Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
@@ -199,8 +466,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="7" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="15" />
+    <option name="y" value="10" />
     <option name="width" value="1329" />
     <option name="height" value="728" />
   </component>
@@ -227,6 +495,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -242,6 +511,136 @@
             <path>
               <item name="manager-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="manager-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-manager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="manager-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="manager-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-manager-dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="manager-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="manager-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-manager-dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="manager-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="manager-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-manager-dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="manager-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="manager-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-manager-dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="manager-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="manager-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-manager-dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="manager-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="manager-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-manager-pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="manager-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="manager-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-manager-pojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="manager-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="manager-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-manager-pojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="manager-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="manager-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-manager-pojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="manager-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="manager-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-manager-pojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="manager-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="manager-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-sso" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="manager-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="manager-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-sso" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-sso-serveice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="manager-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="manager-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-sso" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-sso-serveice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="manager-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="manager-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-sso" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-sso-serveice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="manager-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="manager-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-sso" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-sso-serveice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="manager-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="manager-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-sso" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-sso-serveice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="manager-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="manager-parent" type="462c0819:PsiDirectoryNode" />
               <item name="manager-sso-web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -263,7 +662,7 @@
               <item name="manager-sso-web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="manager-parent" type="b2602c69:ProjectViewProjectNode" />
@@ -271,8 +670,8 @@
               <item name="manager-sso-web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="Resources" type="462c0819:PsiDirectoryNode" />
-              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -344,19 +743,28 @@
       <workItem from="1574123879495" duration="9279000" />
       <workItem from="1574148149418" duration="830000" />
       <workItem from="1574239728478" duration="1294000" />
-      <workItem from="1574854002418" duration="1201000" />
+      <workItem from="1574854002418" duration="1798000" />
+      <workItem from="1574937295151" duration="550000" />
+      <workItem from="1575278506681" duration="616000" />
+      <workItem from="1575286731240" duration="5154000" />
+      <workItem from="1575369112541" duration="2149000" />
+      <workItem from="1575452951588" duration="169000" />
+      <workItem from="1575519853133" duration="4585000" />
+      <workItem from="1575531496599" duration="3646000" />
+      <workItem from="1575548533012" duration="2267000" />
+      <workItem from="1575553561129" duration="620000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110874000" />
+    <option name="totallyTimeSpent" value="131227000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="7" y="0" width="1329" height="728" extended-state="1" />
+    <frame x="15" y="10" width="1329" height="728" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Web" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2537431" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.22931442" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
@@ -366,7 +774,7 @@
       <window_info anchor="bottom" id="Java Enterprise" order="0" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.3104027" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.7092437" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -379,13 +787,13 @@
       <window_info anchor="bottom" id="Spring" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24980299" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32939324" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" visible="true" weight="0.16706067" />
+      <window_info active="true" anchor="right" id="Maven Projects" order="8" visible="true" weight="0.214342" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -536,13 +944,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manager-manager/manager-manager-pojo/src/main/java/com/fsl/manager/pojo/UserinfoExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/manager-manager/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-396">
@@ -585,13 +986,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manager-manager/manager-manager-dao/src/main/java/com/fsl/manager/dao/UserinfoMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/manager-sso/manager-sso-serveice/src/main/Resources/mybatis/sqlMapConfig.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -599,31 +993,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manager-manager/manager-manager-dao/src/main/java/com/fsl/manager/dao/UserinfoMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/manager-sso/manager-sso-serveice/src/main/Resources/spring/applicationContext-dao.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manager-sso/manager-sso-interface/src/main/java/com/fsl/sso/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manager-sso/manager-sso-serveice/src/main/java/com/fsl/sso/service/impl/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="38" column="20" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -676,13 +1049,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manager-manager/manager-manager-pojo/src/main/java/com/fsl/manager/pojo/Userinfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="43" column="6" lean-forward="true" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/manager-commons/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -694,13 +1060,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/mamager/parent/manager-commons/1.0-SNAPSHOT/manager-commons-1.0-SNAPSHOT.jar!/com/fsl/manager/commons/ManagerResult.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -725,13 +1084,59 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/mamager/parent/manager-commons/1.0-SNAPSHOT/manager-commons-1.0-SNAPSHOT.jar!/com/fsl/manager/commons/ManagerResult.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manager-sso/manager-sso-interface/src/main/java/com/fsl/sso/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manager-manager/manager-manager-pojo/src/main/java/com/fsl/manager/pojo/UserinfoExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="18" column="6" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manager-manager/manager-manager-dao/src/main/java/com/fsl/manager/dao/UserinfoMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="102" column="9" lean-forward="true" selection-start-line="102" selection-start-column="9" selection-end-line="102" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manager-manager/manager-manager-pojo/src/main/java/com/fsl/manager/pojo/Userinfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1008">
+          <caret line="66" column="7" lean-forward="true" selection-start-line="66" selection-start-column="7" selection-end-line="66" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manager-manager/manager-manager-dao/src/main/java/com/fsl/manager/dao/UserinfoMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="90" column="18" selection-start-line="90" selection-start-column="18" selection-end-line="90" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manager-sso/manager-sso-serveice/src/main/java/com/fsl/sso/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1404">
+          <caret line="50" column="22" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/manager-sso-web/src/main/java/com/fsl/sso/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="61">
+          <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
         </state>
       </provider>
     </entry>

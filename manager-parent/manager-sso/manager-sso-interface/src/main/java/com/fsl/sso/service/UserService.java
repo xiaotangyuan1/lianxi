@@ -6,7 +6,8 @@ import java.util.List;
 
 public interface UserService {
     public boolean checkData(String data,int type);
-    String register(Userinfo user);
+    int register(Userinfo user);
     List<Userinfo> login(String username, String password);
+    List<Userinfo> queryAllUser();
     boolean getUserByToken(String token);
 }
